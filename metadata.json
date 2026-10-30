@@ -1,0 +1,6 @@
+{
+  "name": "NetShield AI",
+  "description": "AI-Powered Network Intrusion Detection & Threat Intelligence Platform with 3D Topology, Sensor Mapping, and ML Traffic Analysis",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
